@@ -1,0 +1,2221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1651b96-569d-4da5-8e34-0c548d5cef18" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SecurityConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/configuration/SecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/service/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+              <folding>
+                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#520#521#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/controller/HelloController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="50" column="62" lean-forward="true" selection-start-line="50" selection-start-column="62" selection-end-line="50" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logins.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/logins.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="86" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="welcome.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/dao/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDaoImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/dao/UserDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomUserDetailsService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/service/CustomUserDetailsService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1573#1591#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="95" column="39" lean-forward="false" selection-start-line="95" selection-start-column="39" selection-end-line="95" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="D:/下载/sbia_examples-master/ch03" value="1452303059000" />
+        <entry key="D:/下载/springsecuritystudy-master" value="2978227868000" />
+        <entry key="E:/Spring实战第4版/springshizhan/Chapter_06/jsp" value="2830268346000" />
+        <entry key="E:/Spring实战第4版/springshizhan/Chapter_06/thymeleaf" value="2830268346000" />
+        <entry key="E:/Spring实战第4版/springshizhan/Chapter_08/SpringPizza" value="1415134173000" />
+        <entry key="E:/Spring实战第4版/springshizhan/Chapter_09/thymeleaf" value="2830268346000" />
+        <entry key="E:/Spring实战第4版/springshizhan/Chapter_13/caching" value="1415134173000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/Java/SecurityWebApplicationInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/MySuccessHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/Controller.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/MyWebConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/SpringMVCInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" />
+        <option value="$PROJECT_DIR$/src/main/Java/MyController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/Java/HelloWorld/MyController.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/HelloWorld/RootConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/HelloWorld/MyWebConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/HelloWorld/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/HelloWorld/SpringMVCInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/example/AppInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/example/configuration/SecurityWebApplicationInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/example/configuration/MySuccessHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/example/configuration/WebConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/example/configuration/RootConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/example/configuration/AppInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/logins.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/dba.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/accessDenied.jsp" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/example/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/example/Entity/UserProfile.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/example/Entity/UserProfileType.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/example/Entity/State.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/example/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/example/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/example/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/example/dao/AbstractDao.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/example/configuration/HibernateConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/example/configuration/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/example/service/CustomUserDetailsService.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/example/dao/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/example/Entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="demo Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="demo Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Entity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurityWithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="configuration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\LearnSpring\SpringSecurityWithJava\src\main\resources" />
+      <recent name="E:\LearnSpring\SpringSecurityWithJava\src\main\Java\com\example" />
+      <recent name="E:\LearnSpring\SpringSecurityWithJava\src\main\Java" />
+      <recent name="E:\LearnSpring\SpringSecurityWithJava\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.tomcat">
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.0-RC11" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:/Program Files/Java">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="SpringSecurityWithJava:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_SpringSecurityWithJava" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60156" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SpringSecurityWithJava:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SpringSecurityWithJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.0-RC11" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:/Program Files/Java/jre1.8.0_121">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="SpringSecurityWithJava:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SpringSecurityWithJava" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60156" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.tomcat" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1651b96-569d-4da5-8e34-0c548d5cef18" name="Default" comment="" />
+      <created>1489646186278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489646186278</updated>
+      <workItem from="1489646189981" duration="17250000" />
+      <workItem from="1489728609292" duration="5229000" />
+      <workItem from="1489734911955" duration="17773000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40252000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.018656716" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.156013" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49187434" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20415778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19934994" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Java/com/example/dao/AbstractDao.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/configuration/MySuccessHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <element signature="e#2669#2670#0" expanded="false" />
+            <element signature="e#2708#2709#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/configuration/RootConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="66" column="20" lean-forward="false" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/logins.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/configuration/SecurityWebApplicationInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="96" lean-forward="false" selection-start-line="7" selection-start-column="96" selection-end-line="7" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1862">
+          <caret line="98" column="17" lean-forward="true" selection-start-line="98" selection-start-column="17" selection-end-line="98" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/configuration/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="36" lean-forward="false" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Java/HelloWorld/MySuccessHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Java/HelloWorld/SecurityWebApplicationInitializer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Java/HelloWorld/MyController.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.3.RELEASE/spring-beans-3.2.3.RELEASE.jar!/org/springframework/beans/factory/support/ConstructorResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="458" column="0" lean-forward="false" selection-start-line="458" selection-start-column="0" selection-end-line="458" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.0.3.RELEASE/spring-security-config-4.0.3.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/Java/HelloWorld/WebSecurityConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Java/HelloWorld/RootConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Java/HelloWorld/MyWebConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Java/HelloWorld/SpringMVCInitializer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/dba.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/accessDenied.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/configuration/RootConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.example:demo:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.example:demo:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="0.0" y="979.0978545264254">com.example:demo:1.0-SNAPSHOT</node>
+            <node x="957.5" y="1424.4281789638926">org.springframework:spring-core:jar:4.1.6.RELEASE</node>
+            <node x="1142.0" y="1424.4281789638926">org.springframework:spring-core:jar:4.1.6.RELEASE/commons-logging:commons-logging:jar:1.2</node>
+            <node x="447.0" y="1346.0">org.springframework:spring-web:jar:4.1.6.RELEASE</node>
+            <node x="731.5" y="1548.5">org.springframework:spring-web:jar:4.1.6.RELEASE/org.springframework:spring-aop:jar:4.1.6.RELEASE</node>
+            <node x="725.5" y="1397.0">org.springframework:spring-web:jar:4.1.6.RELEASE/org.springframework:spring-beans:jar:4.1.6.RELEASE</node>
+            <node x="722.0" y="1342.25">org.springframework:spring-web:jar:4.1.6.RELEASE/org.springframework:spring-context:jar:4.1.6.RELEASE</node>
+            <node x="165.0" y="1314.5">org.springframework:spring-webmvc:jar:4.1.6.RELEASE</node>
+            <node x="438.0" y="1279.5">org.springframework:spring-webmvc:jar:4.1.6.RELEASE/org.springframework:spring-context:jar:4.3.3.RELEASE</node>
+            <node x="711.5" y="1467.0">org.springframework:spring-webmvc:jar:4.1.6.RELEASE/org.springframework:spring-expression:jar:4.1.6.RELEASE</node>
+            <node x="152.0" y="1464.1807953950806">org.springframework.security:spring-security-web:jar:4.0.1.RELEASE</node>
+            <node x="958.5" y="1591.1781789638926">org.springframework.security:spring-security-web:jar:4.0.1.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="421.5" y="1583.0">org.springframework.security:spring-security-web:jar:4.0.1.RELEASE/org.springframework.security:spring-security-core:jar:4.0.1.RELEASE</node>
+            <node x="722.0" y="1605.75">org.springframework.security:spring-security-web:jar:4.0.1.RELEASE/org.springframework.security:spring-security-core:jar:4.0.1.RELEASE/org.springframework:spring-context:jar:4.3.3.RELEASE</node>
+            <node x="438.0" y="1518.0">org.springframework.security:spring-security-web:jar:4.0.1.RELEASE/org.springframework:spring-context:jar:4.3.3.RELEASE</node>
+            <node x="146.0" y="1617.2760334903182">org.springframework.security:spring-security-config:jar:4.0.1.RELEASE</node>
+            <node x="438.0" y="1663.3061878597587">org.springframework.security:spring-security-config:jar:4.0.1.RELEASE/org.springframework:spring-context:jar:4.3.3.RELEASE</node>
+            <node x="440.5" y="280.0">javax.validation:validation-api:jar:1.0.0.GA</node>
+            <node x="154.0" y="364.8478545264254">org.hibernate:hibernate-validator:jar:4.0.2.GA</node>
+            <node x="457.0" y="428.81174777603303">org.hibernate:hibernate-validator:jar:4.0.2.GA/org.slf4j:slf4j-api:jar:1.5.6</node>
+            <node x="740.5" y="340.81174777603303">org.hibernate:hibernate-validator:jar:4.0.2.GA/javax.xml.bind:jaxb-api:jar:2.1</node>
+            <node x="968.5" y="311.31770015698487">org.hibernate:hibernate-validator:jar:4.0.2.GA/javax.xml.bind:jaxb-api:jar:2.1/javax.xml.stream:stax-api:jar:1.0-2</node>
+            <node x="964.0" y="381.31770015698487">org.hibernate:hibernate-validator:jar:4.0.2.GA/javax.xml.bind:jaxb-api:jar:2.1/javax.activation:activation:jar:1.1</node>
+            <node x="453.0" y="358.81174777603303">org.hibernate:hibernate-validator:jar:4.0.2.GA/com.sun.xml.bind:jaxb-impl:jar:2.1.3</node>
+            <node x="174.0" y="1244.5">org.slf4j:jcl-over-slf4j:jar:1.7.0</node>
+            <node x="457.0" y="1223.5978545264254">org.slf4j:slf4j-api:jar:1.7.0</node>
+            <node x="174.0" y="1123.5">org.slf4j:slf4j-log4j12:jar:1.7.0</node>
+            <node x="465.5" y="1116.0">org.slf4j:slf4j-log4j12:jar:1.7.0/log4j:log4j:jar:1.2.17</node>
+            <node x="195.0" y="1193.5">log4j:log4j:jar:1.2.14</node>
+            <node x="163.0" y="504.8478545264254">javax.servlet:javax.servlet-api:jar:3.1.0</node>
+            <node x="153.0" y="35.0">javax.servlet.jsp:javax.servlet.jsp-api:jar:2.3.1</node>
+            <node x="201.5" y="709.0978545264254">javax.servlet:jstl:jar:1.2</node>
+            <node x="165.0" y="434.8478545264254">javax.persistence:persistence-api:jar:1.0</node>
+            <node x="183.5" y="574.8478545264254">org.springframework:spring-tx:jar:4.3.3.RELEASE</node>
+            <node x="441.5" y="594.7559523809518">org.springframework:spring-tx:jar:4.3.3.RELEASE/org.springframework:spring-beans:jar:4.3.3.RELEASE</node>
+            <node x="446.0" y="524.7559523809518">org.springframework:spring-tx:jar:4.3.3.RELEASE/org.springframework:spring-core:jar:4.3.3.RELEASE</node>
+            <node x="166.5" y="870.8478545264254">org.hibernate:hibernate-core:jar:4.3.8.Final</node>
+            <node x="723.5" y="680.1510334903182">org.hibernate:hibernate-core:jar:4.3.8.Final/org.jboss.logging:jboss-logging:jar:3.1.3.GA</node>
+            <node x="687.0" y="818.1510334903182">org.hibernate:hibernate-core:jar:4.3.8.Final/org.jboss.logging:jboss-logging-annotations:jar:1.2.0.Beta1</node>
+            <node x="391.5" y="925.0">org.hibernate:hibernate-core:jar:4.3.8.Final/org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:jar:1.0.0.Final</node>
+            <node x="461.5" y="995.0">org.hibernate:hibernate-core:jar:4.3.8.Final/dom4j:dom4j:jar:1.6.1</node>
+            <node x="739.5" y="995.0">org.hibernate:hibernate-core:jar:4.3.8.Final/dom4j:dom4j:jar:1.6.1/xml-apis:xml-apis:jar:1.0.b2</node>
+            <node x="385.0" y="734.0">org.hibernate:hibernate-core:jar:4.3.8.Final/org.hibernate.common:hibernate-commons-annotations:jar:4.0.5.Final</node>
+            <node x="418.5" y="664.0">org.hibernate:hibernate-core:jar:4.3.8.Final/org.hibernate.javax.persistence:hibernate-jpa-2.1-api:jar:1.0.0.Final</node>
+            <node x="456.0" y="804.0">org.hibernate:hibernate-core:jar:4.3.8.Final/org.javassist:javassist:jar:3.18.1-GA</node>
+            <node x="467.0" y="874.0">org.hibernate:hibernate-core:jar:4.3.8.Final/antlr:antlr:jar:2.7.7</node>
+            <node x="461.0" y="1065.0">org.hibernate:hibernate-core:jar:4.3.8.Final/org.jboss:jandex:jar:1.1.0.Final</node>
+            <node x="446.5" y="210.0">org.springframework:spring-jdbc:jar:4.3.6.RELEASE</node>
+            <node x="725.5" y="200.81174777603303">org.springframework:spring-jdbc:jar:4.3.6.RELEASE/org.springframework:spring-beans:jar:4.3.6.RELEASE</node>
+            <node x="730.0" y="270.81174777603303">org.springframework:spring-jdbc:jar:4.3.6.RELEASE/org.springframework:spring-core:jar:4.3.6.RELEASE</node>
+            <node x="738.0" y="130.81174777603303">org.springframework:spring-jdbc:jar:4.3.6.RELEASE/org.springframework:spring-tx:jar:4.3.6.RELEASE</node>
+            <node x="176.5" y="105.0">org.springframework:spring-orm:jar:4.3.6.RELEASE</node>
+            <node x="441.5" y="70.0">org.springframework:spring-orm:jar:4.3.6.RELEASE/org.springframework:spring-beans:jar:4.1.6.RELEASE</node>
+            <node x="446.0" y="140.0">org.springframework:spring-orm:jar:4.3.6.RELEASE/org.springframework:spring-core:jar:4.1.6.RELEASE</node>
+            <node x="454.0" y="0.0">org.springframework:spring-orm:jar:4.3.6.RELEASE/org.springframework:spring-tx:jar:4.3.3.RELEASE</node>
+            <node x="167.5" y="1797.0561878597587">org.springframework:spring-context:jar:4.3.3.RELEASE</node>
+            <node x="447.5" y="1835.3061878597587">org.springframework:spring-context:jar:4.3.3.RELEASE/org.springframework:spring-aop:jar:4.3.3.RELEASE</node>
+            <node x="953.0" y="1802.3061878597587">org.springframework:spring-context:jar:4.3.3.RELEASE/org.springframework:spring-beans:jar:4.1.6.RELEASE</node>
+            <node x="446.0" y="1784.3061878597587">org.springframework:spring-context:jar:4.3.3.RELEASE/org.springframework:spring-core:jar:4.1.6.RELEASE</node>
+            <node x="427.5" y="1714.3061878597587">org.springframework:spring-context:jar:4.3.3.RELEASE/org.springframework:spring-expression:jar:4.3.3.RELEASE</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE/org.springframework.security:spring-security-core:jar:4.0.1.RELEASE" target="org.springframework:spring-core:jar:4.1.6.RELEASE">
+              <point x="74.5" y="2.5" />
+              <point x="607.0" y="1600.5" />
+              <point x="687.0" y="1590.25" />
+              <point x="873.0" y="1590.25" />
+              <point x="-50.0" y="10.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.6.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.6.RELEASE">
+              <point x="49.0" y="11.25" />
+              <point x="305.0" y="131.25" />
+              <point x="385.0" y="217.5" />
+              <point x="-49.5" y="-7.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:4.3.8.Final/org.hibernate.common:hibernate-commons-annotations:jar:4.0.5.Final" target="org.hibernate:hibernate-core:jar:4.3.8.Final/org.jboss.logging:jboss-logging-annotations:jar:1.2.0.Beta1">
+              <point x="111.0" y="7.5" />
+              <point x="-93.0" y="-7.5" />
+            </edge>
+            <edge source="com.example:demo:1.0-SNAPSHOT" target="org.springframework:spring-core:jar:4.1.6.RELEASE">
+              <point x="33.0" y="0.75" />
+              <point x="146.0" y="1105.5" />
+              <point x="873.0" y="1105.5" />
+              <point x="-50.0" y="-13.333333333333258" />
+            </edge>
+            <edge source="com.example:demo:1.0-SNAPSHOT" target="org.slf4j:jcl-over-slf4j:jar:1.7.0">
+              <point x="33.0" y="6.75" />
+              <point x="146.0" y="1259.5" />
+              <point x="-51.5" y="-0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-validator:jar:4.0.2.GA/javax.xml.bind:jaxb-api:jar:2.1" target="org.hibernate:hibernate-validator:jar:4.0.2.GA/javax.xml.bind:jaxb-api:jar:2.1/javax.activation:activation:jar:1.1">
+              <point x="39.5" y="7.5" />
+              <point x="873.0" y="363.31174777603303" />
+              <point x="-43.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.6.RELEASE/org.springframework:spring-expression:jar:4.1.6.RELEASE">
+              <point x="73.5" y="-0.0" />
+              <point x="-68.5" y="-3.75" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:4.3.8.Final" target="org.hibernate:hibernate-core:jar:4.3.8.Final/org.javassist:javassist:jar:3.18.1-GA">
+              <point x="59.0" y="-3.3333333333333712" />
+              <point x="305.0" y="882.514521193092" />
+              <point x="385.0" y="819.0" />
+              <point x="-40.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.1.6.RELEASE/org.springframework:spring-beans:jar:4.1.6.RELEASE" target="org.springframework:spring-core:jar:4.1.6.RELEASE">
+              <point x="54.5" y="-0.0" />
+              <point x="873.0" y="1412.0" />
+              <point x="-50.0" y="-0.0" />
+            </edge>
+            <edge source="com.example:demo:1.0-SNAPSHOT" target="org.springframework:spring-orm:jar:4.3.6.RELEASE">
+              <point x="33.0" y="-12.75" />
+              <point x="146.0" y="120.0" />
+              <point x="-49.0" y="-0.0" />
+            </edge>
+            <edge source="org.slf4j:jcl-over-slf4j:jar:1.7.0" target="org.slf4j:slf4j-api:jar:1.7.0">
+              <point x="51.5" y="-0.0" />
+              <point x="305.0" y="1259.5" />
+              <point x="385.0" y="1248.5978545264254" />
+              <point x="-39.0" y="10.0" />
+            </edge>
+            <edge source="org.springframework.security:spring-security-config:jar:4.0.1.RELEASE" target="org.springframework.security:spring-security-config:jar:4.0.1.RELEASE/org.springframework:spring-context:jar:4.3.3.RELEASE">
+              <point x="79.5" y="7.5" />
+              <point x="385.0" y="1678.3061878597587" />
+              <point x="-58.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.6.RELEASE/org.springframework:spring-expression:jar:4.1.6.RELEASE" target="org.springframework:spring-core:jar:4.1.6.RELEASE">
+              <point x="68.5" y="-0.0" />
+              <point x="873.0" y="1482.0" />
+              <point x="-50.0" y="3.3333333333332575" />
+            </edge>
+            <edge source="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE" target="org.springframework:spring-web:jar:4.1.6.RELEASE">
+              <point x="73.5" y="-12.85714285714289" />
+              <point x="385.0" y="1371.0" />
+              <point x="-49.0" y="10.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.6.RELEASE" target="org.springframework:spring-web:jar:4.1.6.RELEASE/org.springframework:spring-beans:jar:4.1.6.RELEASE">
+              <point x="60.5" y="-0.0" />
+              <point x="607.0" y="1329.5" />
+              <point x="687.0" y="1400.0" />
+              <point x="-54.5" y="-12.0" />
+            </edge>
+            <edge source="com.example:demo:1.0-SNAPSHOT" target="org.springframework:spring-context:jar:4.3.3.RELEASE">
+              <point x="33.0" y="14.25" />
+              <point x="146.0" y="1812.0561878597587" />
+              <point x="-58.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:4.3.3.RELEASE" target="org.springframework:spring-context:jar:4.3.3.RELEASE/org.springframework:spring-aop:jar:4.3.3.RELEASE">
+              <point x="58.0" y="11.25" />
+              <point x="305.0" y="1823.3061878597587" />
+              <point x="385.0" y="1850.3061878597587" />
+              <point x="-48.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.security:spring-security-config:jar:4.0.1.RELEASE" target="org.springframework:spring-web:jar:4.1.6.RELEASE/org.springframework:spring-aop:jar:4.1.6.RELEASE">
+              <point x="79.5" y="-7.5" />
+              <point x="385.0" y="1563.5" />
+              <point x="-48.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.security:spring-security-config:jar:4.0.1.RELEASE" target="org.springframework:spring-web:jar:4.1.6.RELEASE/org.springframework:spring-beans:jar:4.1.6.RELEASE">
+              <point x="79.5" y="-12.5" />
+              <point x="385.0" y="1558.5" />
+              <point x="607.0" y="1558.5" />
+              <point x="687.0" y="1418.0" />
+              <point x="-54.5" y="6.0" />
+            </edge>
+            <edge source="org.springframework:spring-jdbc:jar:4.3.6.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.6.RELEASE/org.springframework:spring-core:jar:4.3.6.RELEASE">
+              <point x="49.5" y="10.0" />
+              <point x="607.0" y="235.0" />
+              <point x="687.0" y="285.81174777603303" />
+              <point x="-50.0" y="-0.0" />
+            </edge>
+            <edge source="com.example:demo:1.0-SNAPSHOT" target="org.springframework:spring-tx:jar:4.3.3.RELEASE">
+              <point x="33.0" y="-3.75" />
+              <point x="146.0" y="589.8478545264254" />
+              <point x="-42.0" y="-0.0" />
+            </edge>
+            <edge source="org.slf4j:slf4j-log4j12:jar:1.7.0" target="org.slf4j:slf4j-api:jar:1.7.0">
+              <point x="51.5" y="7.5" />
+              <point x="305.0" y="1146.0" />
+              <point x="385.0" y="1228.5978545264254" />
+              <point x="-39.0" y="-10.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.6.RELEASE" target="org.springframework:spring-orm:jar:4.3.6.RELEASE/org.springframework:spring-tx:jar:4.3.3.RELEASE">
+              <point x="49.0" y="-11.25" />
+              <point x="305.0" y="108.75" />
+              <point x="385.0" y="15.0" />
+              <point x="-42.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.1.6.RELEASE" target="org.springframework:spring-web:jar:4.1.6.RELEASE/org.springframework:spring-context:jar:4.1.6.RELEASE">
+              <point x="49.0" y="-3.75" />
+              <point x="-58.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.6.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.6.RELEASE/org.springframework:spring-context:jar:4.3.3.RELEASE">
+              <point x="60.5" y="-6.0" />
+              <point x="305.0" y="1323.5" />
+              <point x="385.0" y="1294.5" />
+              <point x="-58.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.6.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.6.RELEASE/org.springframework:spring-expression:jar:4.1.6.RELEASE">
+              <point x="60.5" y="6.0" />
+              <point x="607.0" y="1335.5" />
+              <point x="687.0" y="1470.75" />
+              <point x="-68.5" y="-11.25" />
+            </edge>
+            <edge source="org.springframework:spring-core:jar:4.1.6.RELEASE" target="org.springframework:spring-core:jar:4.1.6.RELEASE/commons-logging:commons-logging:jar:1.2">
+              <point x="50.0" y="-0.0" />
+              <point x="-69.5" y="-0.0" />
+            </edge>
+            <edge source="com.example:demo:1.0-SNAPSHOT" target="org.hibernate:hibernate-validator:jar:4.0.2.GA">
+              <point x="33.0" y="-8.25" />
+              <point x="-71.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.6.RELEASE" target="org.springframework:spring-orm:jar:4.3.6.RELEASE/org.springframework:spring-core:jar:4.1.6.RELEASE">
+              <point x="49.0" y="3.75" />
+              <point x="305.0" y="123.75" />
+              <point x="385.0" y="155.0" />
+              <point x="-50.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE" target="org.springframework:spring-core:jar:4.1.6.RELEASE">
+              <point x="73.5" y="-8.571428571428669" />
+              <point x="385.0" y="1386.5" />
+              <point x="873.0" y="1386.5" />
+              <point x="-50.0" y="-3.3333333333332575" />
+            </edge>
+            <edge source="org.springframework.security:spring-security-config:jar:4.0.1.RELEASE" target="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE/aopalliance:aopalliance:jar:1.0">
+              <point x="79.5" y="12.5" />
+              <point x="385.0" y="1703.8061878597587" />
+              <point x="873.0" y="1703.8061878597587" />
+              <point x="-49.0" y="11.25" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:4.3.8.Final" target="org.hibernate:hibernate-core:jar:4.3.8.Final/org.jboss.logging:jboss-logging:jar:3.1.3.GA">
+              <point x="59.0" y="-13.333333333333371" />
+              <point x="305.0" y="872.514521193092" />
+              <point x="385.0" y="653.5" />
+              <point x="607.0" y="653.5" />
+              <point x="687.0" y="687.6510334903182" />
+              <point x="-56.5" y="-7.5" />
+            </edge>
+            <edge source="com.example:demo:1.0-SNAPSHOT" target="javax.validation:validation-api:jar:1.0.0.GA">
+              <point x="33.0" y="-9.75" />
+              <point x="146.0" y="287.5" />
+              <point x="-55.5" y="-7.5" />
+            </edge>
+            <edge source="com.example:demo:1.0-SNAPSHOT" target="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE">
+              <point x="33.0" y="11.25" />
+              <point x="-73.5" y="-0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:4.3.8.Final" target="org.hibernate:hibernate-core:jar:4.3.8.Final/org.hibernate.common:hibernate-commons-annotations:jar:4.0.5.Final">
+              <point x="59.0" y="-6.666666666666629" />
+              <point x="305.0" y="879.1811878597588" />
+              <point x="-111.0" y="-0.0" />
+            </edge>
+            <edge source="com.example:demo:1.0-SNAPSHOT" target="org.slf4j:slf4j-api:jar:1.7.0">
+              <point x="33.0" y="5.25" />
+              <point x="146.0" y="1234.0" />
+              <point x="305.0" y="1234.0" />
+              <point x="385.0" y="1238.5978545264254" />
+              <point x="-39.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE" target="org.springframework:spring-web:jar:4.1.6.RELEASE/org.springframework:spring-beans:jar:4.1.6.RELEASE">
+              <point x="73.5" y="-4.285714285714221" />
+              <point x="385.0" y="1412.0" />
+              <point x="-54.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.6.RELEASE" target="org.springframework:spring-orm:jar:4.3.6.RELEASE/org.springframework:spring-beans:jar:4.1.6.RELEASE">
+              <point x="49.0" y="-3.75" />
+              <point x="305.0" y="116.25" />
+              <point x="385.0" y="85.0" />
+              <point x="-54.5" y="-0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-validator:jar:4.0.2.GA/javax.xml.bind:jaxb-api:jar:2.1" target="org.hibernate:hibernate-validator:jar:4.0.2.GA/javax.xml.bind:jaxb-api:jar:2.1/javax.xml.stream:stax-api:jar:1.0-2">
+              <point x="39.5" y="-7.5" />
+              <point x="873.0" y="348.31174777603303" />
+              <point x="953.0" y="326.31770015698487" />
+              <point x="-39.0" y="-0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:4.3.8.Final" target="org.hibernate:hibernate-core:jar:4.3.8.Final/org.jboss:jandex:jar:1.1.0.Final">
+              <point x="59.0" y="13.333333333333371" />
+              <point x="305.0" y="899.1811878597588" />
+              <point x="385.0" y="1080.0" />
+              <point x="-35.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE" target="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE/org.springframework:spring-context:jar:4.3.3.RELEASE">
+              <point x="73.5" y="8.571428571428669" />
+              <point x="385.0" y="1533.0" />
+              <point x="-58.0" y="-0.0" />
+            </edge>
+            <edge source="com.example:demo:1.0-SNAPSHOT" target="log4j:log4j:jar:1.2.14">
+              <point x="33.0" y="3.75" />
+              <point x="146.0" y="1208.5" />
+              <point x="-30.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:4.3.3.RELEASE" target="org.springframework:spring-context:jar:4.3.3.RELEASE/org.springframework:spring-expression:jar:4.3.3.RELEASE">
+              <point x="58.0" y="-11.25" />
+              <point x="305.0" y="1800.8061878597587" />
+              <point x="385.0" y="1729.3061878597587" />
+              <point x="-68.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE/org.springframework.security:spring-security-core:jar:4.0.1.RELEASE" target="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE/aopalliance:aopalliance:jar:1.0">
+              <point x="74.5" y="7.5" />
+              <point x="607.0" y="1605.5" />
+              <point x="687.0" y="1595.25" />
+              <point x="873.0" y="1595.25" />
+              <point x="-49.0" y="3.75" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.1.6.RELEASE/org.springframework:spring-aop:jar:4.1.6.RELEASE" target="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE/aopalliance:aopalliance:jar:1.0">
+              <point x="48.5" y="-0.0" />
+              <point x="873.0" y="1563.5" />
+              <point x="-49.0" y="-3.75" />
+            </edge>
+            <edge source="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE" target="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE/aopalliance:aopalliance:jar:1.0">
+              <point x="73.5" y="4.285714285714221" />
+              <point x="385.0" y="1507.5" />
+              <point x="873.0" y="1507.5" />
+              <point x="-49.0" y="-11.25" />
+            </edge>
+            <edge source="com.example:demo:1.0-SNAPSHOT" target="org.springframework:spring-jdbc:jar:4.3.6.RELEASE">
+              <point x="33.0" y="-11.25" />
+              <point x="146.0" y="232.5" />
+              <point x="-49.5" y="7.5" />
+            </edge>
+            <edge source="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE/org.springframework.security:spring-security-core:jar:4.0.1.RELEASE" target="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE/org.springframework.security:spring-security-core:jar:4.0.1.RELEASE/org.springframework:spring-context:jar:4.3.3.RELEASE">
+              <point x="74.5" y="12.5" />
+              <point x="607.0" y="1610.5" />
+              <point x="687.0" y="1620.75" />
+              <point x="-58.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE/org.springframework.security:spring-security-core:jar:4.0.1.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.6.RELEASE/org.springframework:spring-expression:jar:4.1.6.RELEASE">
+              <point x="74.5" y="-7.5" />
+              <point x="607.0" y="1590.5" />
+              <point x="687.0" y="1485.75" />
+              <point x="-68.5" y="3.75" />
+            </edge>
+            <edge source="com.example:demo:1.0-SNAPSHOT" target="org.springframework:spring-webmvc:jar:4.1.6.RELEASE">
+              <point x="33.0" y="8.25" />
+              <point x="146.0" y="1329.5" />
+              <point x="-60.5" y="-0.0" />
+            </edge>
+            <edge source="com.example:demo:1.0-SNAPSHOT" target="javax.servlet:jstl:jar:1.2">
+              <point x="33.0" y="-2.25" />
+              <point x="146.0" y="724.0978545264254" />
+              <point x="-24.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.1.6.RELEASE/org.springframework:spring-aop:jar:4.1.6.RELEASE" target="org.springframework:spring-core:jar:4.1.6.RELEASE">
+              <point x="48.5" y="-10.0" />
+              <point x="873.0" y="1553.5" />
+              <point x="-50.0" y="6.6666666666667425" />
+            </edge>
+            <edge source="com.example:demo:1.0-SNAPSHOT" target="org.springframework.security:spring-security-config:jar:4.0.1.RELEASE">
+              <point x="33.0" y="12.75" />
+              <point x="-79.5" y="-0.0" />
+            </edge>
+            <edge source="com.example:demo:1.0-SNAPSHOT" target="org.slf4j:slf4j-log4j12:jar:1.7.0">
+              <point x="33.0" y="2.25" />
+              <point x="146.0" y="1138.5" />
+              <point x="-51.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.6.RELEASE" target="org.springframework:spring-core:jar:4.1.6.RELEASE">
+              <point x="60.5" y="-12.0" />
+              <point x="305.0" y="1317.5" />
+              <point x="385.0" y="1269.0" />
+              <point x="873.0" y="1269.0" />
+              <point x="-50.0" y="-10.0" />
+            </edge>
+            <edge source="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE/org.springframework.security:spring-security-core:jar:4.0.1.RELEASE" target="org.springframework:spring-web:jar:4.1.6.RELEASE/org.springframework:spring-aop:jar:4.1.6.RELEASE">
+              <point x="74.5" y="-2.5" />
+              <point x="607.0" y="1595.5" />
+              <point x="687.0" y="1573.5" />
+              <point x="-48.5" y="10.0" />
+            </edge>
+            <edge source="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE" target="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE/org.springframework.security:spring-security-core:jar:4.0.1.RELEASE">
+              <point x="73.5" y="12.85714285714289" />
+              <point x="385.0" y="1590.5" />
+              <point x="-74.5" y="-7.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:4.3.8.Final" target="org.hibernate:hibernate-core:jar:4.3.8.Final/org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:jar:1.0.0.Final">
+              <point x="59.0" y="6.666666666666629" />
+              <point x="305.0" y="892.514521193092" />
+              <point x="-104.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.security:spring-security-config:jar:4.0.1.RELEASE" target="org.springframework:spring-core:jar:4.1.6.RELEASE">
+              <point x="79.5" y="2.5" />
+              <point x="385.0" y="1646.25" />
+              <point x="873.0" y="1646.25" />
+              <point x="-50.0" y="13.333333333333258" />
+            </edge>
+            <edge source="org.springframework:spring-tx:jar:4.3.3.RELEASE" target="org.springframework:spring-tx:jar:4.3.3.RELEASE/org.springframework:spring-core:jar:4.3.3.RELEASE">
+              <point x="42.0" y="-7.5" />
+              <point x="305.0" y="582.3478545264254" />
+              <point x="385.0" y="539.7559523809518" />
+              <point x="-50.0" y="-0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:4.3.8.Final" target="org.hibernate:hibernate-core:jar:4.3.8.Final/org.hibernate.javax.persistence:hibernate-jpa-2.1-api:jar:1.0.0.Final">
+              <point x="59.0" y="-10.0" />
+              <point x="305.0" y="875.8478545264254" />
+              <point x="385.0" y="679.0" />
+              <point x="-77.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-jdbc:jar:4.3.6.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.6.RELEASE/org.springframework:spring-beans:jar:4.3.6.RELEASE">
+              <point x="49.5" y="-0.0" />
+              <point x="607.0" y="225.0" />
+              <point x="687.0" y="215.81174777603303" />
+              <point x="-54.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.1.6.RELEASE" target="org.springframework:spring-web:jar:4.1.6.RELEASE/org.springframework:spring-beans:jar:4.1.6.RELEASE">
+              <point x="49.0" y="3.75" />
+              <point x="607.0" y="1364.75" />
+              <point x="687.0" y="1406.0" />
+              <point x="-54.5" y="-6.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-validator:jar:4.0.2.GA/com.sun.xml.bind:jaxb-impl:jar:2.1.3" target="org.hibernate:hibernate-validator:jar:4.0.2.GA/javax.xml.bind:jaxb-api:jar:2.1">
+              <point x="43.0" y="-0.0" />
+              <point x="607.0" y="373.81174777603303" />
+              <point x="687.0" y="363.31174777603303" />
+              <point x="-39.5" y="7.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:4.3.8.Final/org.hibernate.common:hibernate-commons-annotations:jar:4.0.5.Final" target="org.hibernate:hibernate-core:jar:4.3.8.Final/org.jboss.logging:jboss-logging:jar:3.1.3.GA">
+              <point x="111.0" y="-7.5" />
+              <point x="687.0" y="702.6510334903182" />
+              <point x="-56.5" y="7.5" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:4.3.3.RELEASE" target="org.springframework:spring-context:jar:4.3.3.RELEASE/org.springframework:spring-core:jar:4.1.6.RELEASE">
+              <point x="58.0" y="-3.75" />
+              <point x="305.0" y="1808.3061878597587" />
+              <point x="385.0" y="1799.3061878597587" />
+              <point x="-50.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:4.3.3.RELEASE" target="org.springframework:spring-context:jar:4.3.3.RELEASE/org.springframework:spring-beans:jar:4.1.6.RELEASE">
+              <point x="58.0" y="3.75" />
+              <point x="305.0" y="1815.8061878597587" />
+              <point x="385.0" y="1824.8061878597587" />
+              <point x="-54.5" y="7.5" />
+            </edge>
+            <edge source="org.springframework:spring-tx:jar:4.3.3.RELEASE" target="org.springframework:spring-tx:jar:4.3.3.RELEASE/org.springframework:spring-beans:jar:4.3.3.RELEASE">
+              <point x="42.0" y="7.5" />
+              <point x="305.0" y="597.3478545264254" />
+              <point x="385.0" y="609.7559523809518" />
+              <point x="-54.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.1.6.RELEASE/org.springframework:spring-aop:jar:4.1.6.RELEASE" target="org.springframework:spring-context:jar:4.3.3.RELEASE/org.springframework:spring-beans:jar:4.1.6.RELEASE">
+              <point x="48.5" y="10.0" />
+              <point x="873.0" y="1573.5" />
+              <point x="-54.5" y="-7.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:4.3.8.Final/dom4j:dom4j:jar:1.6.1" target="org.hibernate:hibernate-core:jar:4.3.8.Final/dom4j:dom4j:jar:1.6.1/xml-apis:xml-apis:jar:1.0.b2">
+              <point x="34.5" y="-0.0" />
+              <point x="-40.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.1.6.RELEASE" target="org.springframework:spring-web:jar:4.1.6.RELEASE/org.springframework:spring-aop:jar:4.1.6.RELEASE">
+              <point x="49.0" y="11.25" />
+              <point x="607.0" y="1372.25" />
+              <point x="687.0" y="1553.5" />
+              <point x="-48.5" y="-10.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-validator:jar:4.0.2.GA" target="javax.validation:validation-api:jar:1.0.0.GA">
+              <point x="71.5" y="-11.25" />
+              <point x="385.0" y="302.5" />
+              <point x="-55.5" y="7.5" />
+            </edge>
+            <edge source="org.springframework.security:spring-security-config:jar:4.0.1.RELEASE" target="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE/org.springframework.security:spring-security-core:jar:4.0.1.RELEASE">
+              <point x="79.5" y="-2.5" />
+              <point x="385.0" y="1605.5" />
+              <point x="-74.5" y="7.5" />
+            </edge>
+            <edge source="org.springframework.security:spring-security-web:jar:4.0.1.RELEASE/org.springframework.security:spring-security-core:jar:4.0.1.RELEASE" target="org.springframework:spring-web:jar:4.1.6.RELEASE/org.springframework:spring-beans:jar:4.1.6.RELEASE">
+              <point x="74.5" y="-12.5" />
+              <point x="607.0" y="1585.5" />
+              <point x="687.0" y="1424.0" />
+              <point x="-54.5" y="12.0" />
+            </edge>
+            <edge source="com.example:demo:1.0-SNAPSHOT" target="javax.persistence:persistence-api:jar:1.0">
+              <point x="33.0" y="-6.75" />
+              <point x="146.0" y="449.8478545264254" />
+              <point x="-60.5" y="-0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-validator:jar:4.0.2.GA" target="org.hibernate:hibernate-validator:jar:4.0.2.GA/org.slf4j:slf4j-api:jar:1.5.6">
+              <point x="71.5" y="11.25" />
+              <point x="385.0" y="443.81174777603303" />
+              <point x="-39.0" y="-0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:4.3.8.Final" target="org.hibernate:hibernate-core:jar:4.3.8.Final/dom4j:dom4j:jar:1.6.1">
+              <point x="59.0" y="10.0" />
+              <point x="305.0" y="895.8478545264254" />
+              <point x="385.0" y="1010.0" />
+              <point x="-34.5" y="-0.0" />
+            </edge>
+            <edge source="com.example:demo:1.0-SNAPSHOT" target="org.springframework:spring-web:jar:4.1.6.RELEASE">
+              <point x="33.0" y="9.75" />
+              <point x="146.0" y="1361.0" />
+              <point x="-49.0" y="-0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:4.3.8.Final" target="org.hibernate:hibernate-core:jar:4.3.8.Final/antlr:antlr:jar:2.7.7">
+              <point x="59.0" y="-0.0" />
+              <point x="385.0" y="889.0" />
+              <point x="-29.0" y="-0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-validator:jar:4.0.2.GA" target="org.hibernate:hibernate-validator:jar:4.0.2.GA/javax.xml.bind:jaxb-api:jar:2.1">
+              <point x="71.5" y="-3.75" />
+              <point x="385.0" y="348.31174777603303" />
+              <point x="-39.5" y="-7.5" />
+            </edge>
+            <edge source="com.example:demo:1.0-SNAPSHOT" target="org.hibernate:hibernate-core:jar:4.3.8.Final">
+              <point x="33.0" y="-0.75" />
+              <point x="146.0" y="885.8478545264254" />
+              <point x="-59.0" y="-0.0" />
+            </edge>
+            <edge source="org.slf4j:slf4j-log4j12:jar:1.7.0" target="org.slf4j:slf4j-log4j12:jar:1.7.0/log4j:log4j:jar:1.2.17">
+              <point x="51.5" y="-7.5" />
+              <point x="-30.5" y="-0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-validator:jar:4.0.2.GA" target="org.hibernate:hibernate-validator:jar:4.0.2.GA/com.sun.xml.bind:jaxb-impl:jar:2.1.3">
+              <point x="71.5" y="3.75" />
+              <point x="385.0" y="373.81174777603303" />
+              <point x="-43.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.1.6.RELEASE" target="org.springframework:spring-core:jar:4.1.6.RELEASE">
+              <point x="49.0" y="-11.25" />
+              <point x="607.0" y="1349.75" />
+              <point x="687.0" y="1313.5059523809518" />
+              <point x="873.0" y="1313.5059523809518" />
+              <point x="-50.0" y="-6.6666666666667425" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:4.3.8.Final" target="org.hibernate:hibernate-core:jar:4.3.8.Final/org.jboss.logging:jboss-logging-annotations:jar:1.2.0.Beta1">
+              <point x="59.0" y="3.3333333333333712" />
+              <point x="305.0" y="889.1811878597588" />
+              <point x="385.0" y="914.5" />
+              <point x="607.0" y="914.5" />
+              <point x="-93.0" y="7.5" />
+            </edge>
+            <edge source="com.example:demo:1.0-SNAPSHOT" target="javax.servlet:javax.servlet-api:jar:3.1.0">
+              <point x="33.0" y="-5.25" />
+              <point x="146.0" y="519.8478545264254" />
+              <point x="-62.5" y="-0.0" />
+            </edge>
+            <edge source="com.example:demo:1.0-SNAPSHOT" target="javax.servlet.jsp:javax.servlet.jsp-api:jar:2.3.1">
+              <point x="33.0" y="-14.25" />
+              <point x="-72.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.6.RELEASE" target="org.springframework:spring-web:jar:4.1.6.RELEASE">
+              <point x="60.5" y="12.0" />
+              <point x="305.0" y="1341.5" />
+              <point x="385.0" y="1351.0" />
+              <point x="-49.0" y="-10.0" />
+            </edge>
+            <edge source="org.springframework:spring-jdbc:jar:4.3.6.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.6.RELEASE/org.springframework:spring-tx:jar:4.3.6.RELEASE">
+              <point x="49.5" y="-10.0" />
+              <point x="607.0" y="215.0" />
+              <point x="687.0" y="145.81174777603303" />
+              <point x="-42.0" y="-0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9001060445387062" x="231.6352497643732" y="1215.6352497643732" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/Entity/UserProfileType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/Entity/UserProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/Entity/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/demo/WEB-INF/classes/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/configuration/AppInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#335#336#0" expanded="false" />
+            <element signature="e#391#392#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/configuration/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/configuration/MySuccessHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/configuration/HibernateConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/Entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-304">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/configuration/SecurityWebApplicationInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/dao/AbstractDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <element signature="e#833#834#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#1015#1016#0" expanded="true" />
+            <element signature="e#1058#1059#0" expanded="true" />
+            <element signature="e#1106#1107#0" expanded="true" />
+            <element signature="e#1173#1174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/dao/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/configuration/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="95" column="39" lean-forward="false" selection-start-line="95" selection-start-column="39" selection-end-line="95" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/service/CustomUserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1573#1591#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/example/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="50" column="62" lean-forward="true" selection-start-line="50" selection-start-column="62" selection-end-line="50" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/logins.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="86" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SpringSecurityWithJava:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SpringSecurityWithJava</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
